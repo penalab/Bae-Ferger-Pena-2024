@@ -1,0 +1,17 @@
+# matplotlib settings
+mathtext.default: "regular"
+font.family: "sans-serif"
+font.sans-serif: "Arial"
+
+# Reproducible SVG files (including xml ids):
+svg.hashsalt: "123"
+savefig.dpi: "300"
+
+# Font sizes:
+font.size: 12
+axes.labelsize: 12  # default: 'medium' == 10
+xtick.labelsize: 10  # default: 'medium' == 10
+ytick.labelsize: 10  # default: 'medium' == 10
+legend.fontsize: 10
+xtick.major.size: 2
+ytick.major.size: 2
