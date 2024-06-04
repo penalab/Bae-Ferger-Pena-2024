@@ -6,6 +6,9 @@ Andrea J Bae, Roland Ferger, José L Peña
 Journal of Neuroscience 25 April 2024, e2081232024; DOI:
 [10.1523/JNEUROSCI.2081-23.2024](https://doi.org/10.1523/JNEUROSCI.2081-23.2024)
 
+Alternative repository to clone from (because of GitHub download quota)  
+<https://gitlab.com/penalab/Bae-Ferger-et-al-2024>
+
 __Abstract__
 
 > The natural environment challenges the brain to prioritize the processing of
